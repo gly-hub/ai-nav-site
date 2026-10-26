@@ -2970,6 +2970,17 @@
                         "编程",
                         "教育"
                     ]
+                },
+                {
+                    "title": "agent-qa",
+                    "url": "https://vostride.com",
+                    "description": "用自然语言测试 Web、Android 和 iOS 应用，结合持久化记忆与经过验证的自我改进，支持 CLI/MCP 工作流；本地工具免费，模型使用费用另计。",
+                    "icon": "https://www.vostride.com/icon.png?icon.1muy1ymeud8i8.png",
+                    "tags": [
+                        "自动化测试",
+                        "智能体",
+                        "MCP"
+                    ]
                 }
             ]
         }
